@@ -7,7 +7,7 @@ async fn aoa() -> impl Responder {
 async fn add_number(req: HttpRequest) -> impl Responder {
     let number  = req.match_info().get("number").unwrap();
     let resp = format!("adding number 23 + {} = {:#?}  ",  number, number.parse::<i32>().unwrap()+23);
-    HttpResponse::Ok().body(resp)
+    HttpResponse::Ok().body(resp) 
 }
 
 #[actix_web::main]
