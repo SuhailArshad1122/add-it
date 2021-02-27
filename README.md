@@ -1,7 +1,8 @@
 # "add-it"
 
-"add-it" is our 3rd Assignment, given by Honorable Mr. Rajab and Mr. ID Khan
-App is developed using actix-web Framework. 
+"add-it" is our 3rd Assignment, given by Honorable Mr. Rajab and Mr. ID Khan.
+
+This App is developed using actix-web Framework. 
 
 ## Getting Started
 
