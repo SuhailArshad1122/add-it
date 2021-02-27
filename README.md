@@ -2,7 +2,8 @@
 
 "add-it" is our 3rd Assignment, given by Honorable Mr. Rajab and Mr. ID Khan.
 
-This App is developed using actix-web Framework. 
+This App is developed using actix-web Framework. This app will firstly accept http request and run in browser, 
+secondly this app will add an integer to a number and displays sum on browser.
 
 ## Getting Started
 
