@@ -4,6 +4,6 @@ http://127.0.0.1:8088/
 
 to add any number follow below link
 
-http://127.0.0.1/8088/number/your-number-here         (i.e. http://127.0.0.1:8088/number/10)
+http://127.0.0.1/8088/number/#your-number-here         (i.e. http://127.0.0.1:8088/number/10)
 
 Hope you will find it all in order
