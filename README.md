@@ -7,7 +7,7 @@ This App is developed using actix-web Framework.
 ## Getting Started
 
 To run this app, clone given app into your client machine and run as ... cargo run add-it... When app is up
-and running, use your browser and copy paste below link or click on below link
+and running, use your browser and copy paste below link or click on link
 http://127.0.0.1:8088/
 
 ## "Add-it" app in action
