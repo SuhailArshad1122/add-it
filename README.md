@@ -30,7 +30,7 @@ you can put an integer in this way number/100
 ## Running the tests
 
 if you use link http://127.0.0.1:8088/number/100 i.e you are adding integer 100
-on web browser you will find ..... adding number 23 + 100 = 123
+on web browser you will find ..... adding number 23 + 100 = 123 in your browser
 
 Keep on changing integer at the endpoint and press enter, sum will keep on changing
 
